@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/superior_violet.mk
+    $(LOCAL_DIR)/nad_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    superior_violet-userdebug \
-    superior_violet-user \
-    superior_violet-eng
+    nad_violet-userdebug \
+    nad_violet-user \
+    nad_violet-eng
