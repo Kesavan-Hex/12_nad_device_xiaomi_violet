@@ -28,8 +28,8 @@ PRODUCT_MODEL := Redmi Note 7 Pro
 PRODUCT_MANUFACTURER := Xiaomi
 
 # Fingerprint
-BUILD_FINGERPRINT := google/redfin/redfin:11/RQ2A.210505.003/7255357:user/release-keys
-BUILD_DESCRIPTION := redfin-user 11 RQ2A.210505.003 7255357 release-keys
+BUILD_FINGERPRINT := google/redfin/redfin:12/SP1A.211105.003/7757856:user/release-keys
+BUILD_DESCRIPTION := redfin-user 11 SP1A.211105.003 7757856 release-keys
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="$(BUILD_DESCRIPTION)" \
